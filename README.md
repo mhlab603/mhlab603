@@ -1,12 +1,12 @@
 ## Hi there 👋
 ---
-I'm a Computational Mathematics/Computer Science student at the (https://ceps.unh.edu/)[University of New Hampshire].
+I'm a Computational Mathematics/Computer Science student at the [https://ceps.unh.edu/](University of New Hampshire).
 
 - I'm currently learning about the Linux System works and how to work on low-level systems.
 - I'm currently working on several projects:
   - An autoconfig script similar to Omakub for Fedora Linux
   - A homelab for self-hosting most of my data/services
-  - A cyberdeck build for legal hacking (I will become (https://watchdogs.fandom.com/wiki/Aiden_Pearce)[Aiden Pearce])
+  - A cyberdeck build for legal hacking (I will become [https://watchdogs.fandom.com/wiki/Aiden_Pearce](Aiden Pearce))
 <!--
 **mhlab603/mhlab603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
