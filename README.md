@@ -1,5 +1,4 @@
 ## Hi there 👋
----
 I'm a Computational Mathematics/Computer Science student at the [University of New Hampshire](https://ceps.unh.edu/).
 
 - I'm currently learning about the Linux System works and how to work on low-level systems.
